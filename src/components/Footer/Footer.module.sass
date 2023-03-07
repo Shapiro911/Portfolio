@@ -1,0 +1,27 @@
+@import "../../utils/variables"
+@import "../../utils/mixins"
+
+footer
+    padding: 25px 100px
+    position: sticky
+    top: 100%
+    text-align: center
+    width: 100%
+    box-sizing: border-box
+
+.info
+    color: $lightGray
+
+.email
+    @include linkNoUnderline
+    color: $lightGray
+    &:hover
+        text-decoration: underline
+
+@media screen and (max-width: 1080px)
+    footer
+        padding: 0px 40px
+
+@media screen and (max-width: 480px)
+    footer
+        padding: 0px 16px

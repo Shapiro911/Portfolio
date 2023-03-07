@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Delivery app",
+        "description": "It’s a food delivery app. User can find the New York restaurants with search bar and filters. After choosing the restaurant, user can order it’s dishes. The goal was to create a fullstack web app that incorporates frontend, backend and database.",
+        "image": "deliveryApp.png",
+        "link": "https://delivery-app-4bih.onrender.com",
+        "skills": []
+    },
+    {
+        "name": "Chat app",
+        "description": "It’s a chat where users can register and write messages to each other. The goal of this project is learning React and Firebase.",
+        "image": "chat.png",
+        "link": "http://react-d8cc0.web.app/",
+        "skills": []
+    },
+    {
+        "name": "Finances management app",
+        "description": "This project allows users to write down there expanses (amount, date, category), but it can only store information in current session. The goal of this project was learning Vue, and how to work with frameworks.",
+        "image": "vueApp.png",
+        "link": "http://vue-finance-686e6.web.app/",
+        "skills": []
+    },
+    {
+        "name": "Online clothes shop",
+        "description": "My first project. It has 5 pages. User can’t actually buy from there but can browse store, add and remove products from cart. The goal of this project was learning HTML, CSS and JS.",
+        "image": "brand.png",
+        "link": "http://the-brand-d0692.web.app/",
+        "skills": []
+    }
+]
